@@ -8,7 +8,7 @@ def initialize
 end
 
 self.all
- @@all
+  @@all
  end
 
 end
